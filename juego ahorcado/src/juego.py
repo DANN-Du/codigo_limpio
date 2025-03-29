@@ -26,7 +26,7 @@ class Juego:
         Obtiene la cantidad de intentos realizados hasta el momento.
 
         Returns:
-            int: Número de intentos realizados.
+            int: Número de intentos realizados..
         """
         return self.__intentos_realizados
 
